@@ -1,0 +1,31 @@
+.main{
+	padding:20px;
+	font-family: 'Helvetica', serif;
+	box-shadow: 5px 5px 7px 5px #0ae22e;
+	
+}
+.main h1{
+	font-size: 40px;
+	text-align:center;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+	
+}
+input{
+	font-family:cursive;
+	width: 100%;
+	font-size: 20px;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: none;
+	border-bottom: 3px solid #767474;
+}
+input[type=submit] {
+	font-family: cursive;
+	width: 100%;
+	background-color: #0d520d;
+	border: none;
+	color: white;
+	padding: 16px 32px;
+	margin: 4px 2px;
+	border-radius: 10px;
+}
